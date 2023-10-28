@@ -13,8 +13,8 @@ public class Main {
 
 
         // Creating Teacher objects
-        Teacher teacher1 = new Teacher("Mr. Ergoye", "Data commmunication and Network");
-        Teacher teacher2 = new Teacher("Ms. Andamlak", "Data structure and algorithm");
+        Teacher teacher1 = new Teacher("Ms. Ergoye", "Data commmunication and Network");
+        Teacher teacher2 = new Teacher("Mr. Andamlak", "Data structure and algorithm");
 
         // Creating College object
         College college = new College("CCI College", new ArrayList<>(), new ArrayList<>());
