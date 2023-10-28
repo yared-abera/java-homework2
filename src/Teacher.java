@@ -1,6 +1,6 @@
 public class Teacher {
-    String name;
-    String subject;
+    private String name;
+    private String subject;
 
     // this is constructor
     Teacher(String name,String subject){
